@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Resources"
+---
+
 #Resources
 ##Jekyll Docs
 ####Docs from the original source
